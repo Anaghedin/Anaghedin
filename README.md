@@ -1,5 +1,5 @@
-<h2> 👋 Hello, My name is Ana Flávia, I'm in the second year of high school integrated in computer science, 
-    I'm studying to be a Full-Stack developer, and I'm taking a Full-Stack ProgramadorBR course</h2>
+<h2> 👋 Hello, my name is Ana Flávia, I'm in the second year of high school integrated in informatics,
+       I'm studying to be a developer taking a Full-Stack ProgramadorBR course</h2>
 <br>
 <hr>
 <br>
