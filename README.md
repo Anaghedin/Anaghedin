@@ -39,6 +39,3 @@ and I'm learning HTML, CSS in the Full-Stack ProgramadorBR course</h3>
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
         
 </div>
-<br>
-<hr>
-<br>
