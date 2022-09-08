@@ -4,13 +4,10 @@
 <hr>
 <br>
 <div align="center">
-    <div>
-        <a href="https://github.com/Anaghedin">
-            <img height="180em"
-                src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anaghedin&layout=compact&langs_count=7&theme=dracula" />
-            <img height="180em"
-                src="https://github-readme-stats.vercel.app/api?username=Anaghedin&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
-    </div>
+  <a href="https://github.com/Anaghedin">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Anaghedin&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anaghedin&layout=compact&langs_count=7&theme=tokyonight"/>
+</div>
 </div>
 <hr>
 <br>
