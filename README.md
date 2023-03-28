@@ -1,5 +1,4 @@
-<h2> 👋 Hello, my name is Ana Flávia, I'm in the second year of high school integrated in informatics,
-       I'm studying to be a developer taking a Full-Stack ProgramadorBR course</h2>
+<h2> 👋 Hello, my name is Ana Flávia, I'm a junior UI/UX designer, and I'm in the third year of high school integrated in informatics at the Cedup Abilio Paulo Institute </h2>
 <br>
 <hr>
 <br>
@@ -25,8 +24,7 @@
 <br>
 <hr>
 <br>
-<h3>💻 I am currently learning Delphi 7, Database and Systems Modeling in the technical course integrated to my high school,
-and I'm learning HTML, CSS in the Full-Stack ProgramadorBR course</h3>
+<h3>💻 I am currently training myself in UX/UI designer through courses on the Udemy platform</h3>
 <div align="center" style="display: inline_block"><br>
     <img align="center" alt="Davi-HTML" height="30" width="40"
         src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
